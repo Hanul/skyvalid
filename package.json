@@ -1,0 +1,10 @@
+{
+    "name": "skyvalid",
+    "author": "Sim Young Jae",
+    "homepage": "https://github.com/Hanul/skyvalid",
+    "version": "0.0.1",
+    "types": "./lib/index.d.ts",
+    "main": "./lib/index.js",
+    "dependencies": {
+    }
+}
